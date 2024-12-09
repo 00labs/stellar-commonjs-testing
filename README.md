@@ -3,6 +3,8 @@
 1. `yarn`
 2. `yarn start`
 
+Our package bindings and SDK are in this repo: https://github.com/00labs/huma-soroban-sdk
+
 ## Error
 
 ```
